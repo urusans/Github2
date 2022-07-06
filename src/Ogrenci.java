@@ -10,6 +10,7 @@ public class Ogrenci {
         System.out.println("brunch değişiklik");
 
         System.out.println("son değişiklik");
+        System.out.println("ol artık lütfen");
 
 
     }
