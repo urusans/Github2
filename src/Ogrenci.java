@@ -9,6 +9,8 @@ public class Ogrenci {
 
         System.out.println("brunch değişiklik");
 
+        System.out.println("son değişiklik");
+
 
     }
 }
