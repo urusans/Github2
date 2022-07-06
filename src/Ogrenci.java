@@ -6,5 +6,9 @@ public class Ogrenci {
         System.out.println("merhaba ss");
 
         System.out.println("merhaba tekrar");
+
+        System.out.println("brunch değişiklik");
+
+
     }
 }
