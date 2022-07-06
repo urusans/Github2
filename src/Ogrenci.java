@@ -4,5 +4,7 @@ public class Ogrenci {
         System.out.println("Merhaba Dünya 3");
 
         System.out.println("merhaba ss");
+
+        System.out.println("merhaba tekrar");
     }
 }
