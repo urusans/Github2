@@ -11,6 +11,8 @@ public class Ogrenci {
 
         System.out.println("son değişiklik");
 
+        System.out.println("değişiklikler");
+
 
     }
 }
